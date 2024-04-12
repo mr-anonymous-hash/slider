@@ -70,31 +70,31 @@
     </ol>
     <div class="carousel-inner" role="listbox">
       <div class="carousel-item active">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-23-02-334.jpg" alt="First slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-25-52-002.jpg" alt="First slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-23-46-605.jpg" alt="Second slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-26-31-474.jpg" alt="Second slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-24-06-121.jpg" alt="Third slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-25-30-751.jpg" alt="Third slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-24-21-654.jpg" alt="Fourth slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-25-15-217.jpg" alt="Fourth slide">
       </div>
       <div class="carousel-item">
         <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-24-36-800.jpg" alt="Fifth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-25-15-217.jpg" alt="Sixth slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-24-21-654.jpg" alt="Sixth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-25-30-751.jpg" alt="Seventh slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-24-06-121.jpg" alt="Seventh slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-25-52-002.jpg" alt="Eighth slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-23-46-605.jpg" alt="Eighth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-26-31-474.jpg" alt="Nineth slide">
+        <img class="d-block img-fluid" src="assets/Picsart_24-04-12_12-23-02-334.jpg" alt="Nineth slide">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -108,26 +108,12 @@
   </div>
 
   <!-- Content -->
-  <div class="row">
-    <div class="col-lg-6">
-      <h2>About Our Website</h2>
-      <p>This is a Bootstrap website with a search box and a slider implemented using the Bootstrap Carousel component.</p>
-      <p>You can add more content here as needed.</p>
-    </div>
-    <div class="col-lg-6">
-      <h2>Contact Us</h2>
-      <p>You can add contact information or a contact form here.</p>
-    </div>
-  </div>
-
-</div>
+ 
 <!-- /.container -->
 
 <!-- Footer -->
 <footer class="py-5 bg-light">
-  <div class="container">
-    <p class="m-0 text-center">Copyright &copy; 2024</p>
-  </div>
+
   <!-- /.container -->
 </footer>
 
